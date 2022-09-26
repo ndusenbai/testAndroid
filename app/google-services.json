@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767055378133",
+    "firebase_url": "https://iqro-kz-default-rtdb.firebaseio.com",
+    "project_id": "iqro-kz",
+    "storage_bucket": "iqro-kz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767055378133:android:c017a414f2dc5502aa145c",
+        "android_client_info": {
+          "package_name": "com.example.sqlitetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767055378133-a9clh7eanjdo299r91nh82j1crl1bjmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiRywX0wIOCQMSa1uC-L9bkzQFb6ogt4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767055378133-a9clh7eanjdo299r91nh82j1crl1bjmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
